@@ -106,5 +106,9 @@ I’m a first-year engineering student, just beginning my journey into the world
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dharshini-457" alt="dharshini-457" /></a> </p>
+
+
+</p>
