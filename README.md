@@ -31,7 +31,7 @@ I’m a first-year engineering student, just beginning my journey into the world
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/Dharshini-457/github-profilinator)  
+
   
 
 - 🌱 I’m currently learning AI and ML  
