@@ -26,6 +26,7 @@ I’m a first-year engineering student, just beginning my journey into the world
   
 
 <br/>  
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dharshini-457" alt="dharshini-457" /></a> </p>
 
 
 ## Rapidfire  
@@ -108,7 +109,6 @@ I’m a first-year engineering student, just beginning my journey into the world
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dharshini-457" alt="dharshini-457" /></a> </p>
 
 
 </p>
