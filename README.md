@@ -18,7 +18,7 @@
 
 
 ### Glad to see you here!  
-I’m a first-year engineering student, just beginning my journey into the world of technology and innovation.  At this stage of my education is filled with learning foundational concepts in mathematics, science, and engineering principles, while also discovering areas of interest that could shape my future career. I'm  balancing academics with developing critical thinking skills and hands-on experiences that will help me to succeed in this exciting and challenging field.
+I’m a first-year engineering student, just beginning my journey into the world of technology and innovation.  At this stage of my education is filled with learning foundational concepts in mathematics, science, and engineering principles, while also discovering areas of interest that could shape my future career.🙂
 
 
 
