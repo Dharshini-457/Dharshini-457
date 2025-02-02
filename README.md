@@ -1,6 +1,6 @@
-## Warm greetings to my profile visitors!👋🏻
 
-## Hi,👋 I'm Dharshini😎  
+
+## Hi👋🏻, I'm Dharshini😎  
   
 
 <a href="https://github.com/Dharshini-457" target="_blank">
