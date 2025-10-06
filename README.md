@@ -10,15 +10,13 @@
 </a>
 
 </a>
-<a href="https://www.youtube.com/user/@Dharsh457" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>  
+ 
   
 
 
 
 ### Glad to see you here!  
-I’m a first-year engineering student, just beginning my journey into the world of technology and innovation.  At this stage of my education is filled with learning foundational concepts in mathematics, science, and engineering principles, while also discovering areas of interest that could shape my future career.🙂
+I’m engineering student, just beginning my journey into the world of technology and innovation.  At this stage of my education is filled with learning foundational concepts in mathematics, science, and engineering principles, while also discovering areas of interest that could shape my future career.🙂
 
 
 
